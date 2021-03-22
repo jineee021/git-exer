@@ -9,3 +9,4 @@ Country와 함께하는 Git 교실
 - 3way other
 
 - fast forward exer
+- 3-way other
