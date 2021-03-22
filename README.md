@@ -1,4 +1,5 @@
 Country와 함께하는 Git 교실
+- feature/c rebase auto merge
 
 - pop ㅌㅔ스트
 - pull 테스트
