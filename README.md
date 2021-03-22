@@ -3,4 +3,4 @@ Country와 함께하는 Git 교실
 - pull 테스트
 
 
-- fast-foward exer
+- fast-foward exer2
